@@ -1,0 +1,232 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 15",
+      "category": "Smartphones",
+      "price": 999,
+      "stock": 15,
+      "brand": "Apple",
+      "image": "./src/assets/product images/iPhone-15.jpg"
+    },
+    {
+      "id": "2",
+      "name": "iPhone 15 Pro",
+      "category": "Smartphones",
+      "price": 1199,
+      "stock": 10,
+      "brand": "Apple",
+      "image": "./src/assets/product images/iPhone-15-Pro-a.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Samsung Galaxy S24",
+      "category": "Smartphones",
+      "price": 899,
+      "stock": 18,
+      "brand": "Samsung",
+      "image": "./src/assets/product images/Samsung-Galaxy-S24-Marble-Grey.webp"
+    },
+    {
+      "id": "4",
+      "name": "Google Pixel 9",
+      "category": "Smartphones",
+      "price": 799,
+      "stock": 12,
+      "brand": "Google",
+      "image": "./src/assets/product images/Google-Pixel-9-Wintergreen.webp"
+    },
+    {
+      "id": "5",
+      "name": "Xiaomi 14",
+      "category": "Smartphones",
+      "price": 699,
+      "stock": 20,
+      "brand": "Xiaomi",
+      "image": "./src/assets/product images/Xaomi 14.jpg"
+    },
+    {
+      "id": "6",
+      "name": "OnePlus 12",
+      "category": "Smartphones",
+      "price": 749,
+      "stock": 14,
+      "brand": "OnePlus",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "7",
+      "name": "MacBook Air M3",
+      "category": "Laptops",
+      "price": 1099,
+      "stock": 8,
+      "brand": "Apple",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "8",
+      "name": "Dell XPS 13",
+      "category": "Laptops",
+      "price": 999,
+      "stock": 7,
+      "brand": "Dell",
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "9",
+      "name": "HP Spectre x360",
+      "category": "Laptops",
+      "price": 1249,
+      "stock": 6,
+      "brand": "HP",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "10",
+      "name": "Lenovo ThinkPad X1",
+      "category": "Laptops",
+      "price": 1199,
+      "stock": 9,
+      "brand": "Lenovo",
+      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "11",
+      "name": "iPad Air",
+      "category": "Tablets",
+      "price": 599,
+      "stock": 13,
+      "brand": "Apple",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "12",
+      "name": "Samsung Galaxy Tab S9",
+      "category": "Tablets",
+      "price": 699,
+      "stock": 11,
+      "brand": "Samsung",
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "13",
+      "name": "AirPods Pro 2",
+      "category": "Audio",
+      "price": 249,
+      "stock": 25,
+      "brand": "Apple",
+      "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "14",
+      "name": "Sony WH-1000XM5",
+      "category": "Audio",
+      "price": 399,
+      "stock": 16,
+      "brand": "Sony",
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "15",
+      "name": "JBL Tune 770NC",
+      "category": "Audio",
+      "price": 129,
+      "stock": 22,
+      "brand": "JBL",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "16",
+      "name": "Apple Watch Series 10",
+      "category": "Smartwatches",
+      "price": 399,
+      "stock": 10,
+      "brand": "Apple",
+      "image": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "17",
+      "name": "Samsung Galaxy Watch 7",
+      "category": "Smartwatches",
+      "price": 299,
+      "stock": 12,
+      "brand": "Samsung",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "18",
+      "name": "Apple MagSafe Charger",
+      "category": "Accessories",
+      "price": 39,
+      "stock": 35,
+      "brand": "Apple",
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=600&q=80"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "secondName": "Kamau",
+      "email": "john.kamau@gmail.com",
+      "phoneNumber": "0712345678",
+      "password": "Admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "firstName": "Mary",
+      "secondName": "Wanjiku",
+      "email": "mary.wanjiku@gmail.com",
+      "phoneNumber": "0723456789",
+      "password": "Admin456",
+      "role": "admin"
+    },
+    {
+      "id": "3",
+      "firstName": "David",
+      "secondName": "Otieno",
+      "email": "david.otieno@gmail.com",
+      "phoneNumber": "0734567890",
+      "password": "User123",
+      "role": "admin"
+    },
+    {
+      "id": "4",
+      "firstName": "Grace",
+      "secondName": "Akinyi",
+      "email": "grace.akinyi@gmail.com",
+      "phoneNumber": "0745678901",
+      "password": "User456",
+      "role": "admin"
+    },
+    {
+      "id": "5",
+      "firstName": "Evra",
+      "secondName": "Gitonga",
+      "email": "evra.gitonga@gmail.com",
+      "phoneNumber": "0142082803",
+      "password": "evra123",
+      "role": "admin"
+    },
+    {
+      "firstName": "Evra",
+      "secondName": "Gitonga",
+      "email": "evramoji@gmail.com",
+      "phoneNumber": "0114360035",
+      "password": "12345",
+      "role": "user",
+      "id": "A4Qj10LZMMI"
+    },
+    {
+      "firstName": "Evra",
+      "secondName": "Gitonga",
+      "email": "evramoji@gmail.com",
+      "phoneNumber": "289289892",
+      "password": "1233444555",
+      "role": "user",
+      "id": "HJO6f4sxetQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
