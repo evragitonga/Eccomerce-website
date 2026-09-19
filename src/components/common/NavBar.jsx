@@ -12,12 +12,7 @@ function NavBar({ loggedUser, setLoggedUser }) {
   return (
     <nav className="navBar">
       <div className="logoContainer">
-        <img
-          src="/src/assets/logo/Image Sep 19, 2026, 03_55_29 PM.png"
-          alt="logo"
-          className="logo"
-        />
-        <h2>Nexora</h2>
+        <img src="/src/assets/logo/nexora-logo.svg" alt="" className="logo"/>
       </div>
       <div className="desktopLinks">
         <Link to="/" className="button">
