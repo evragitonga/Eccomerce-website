@@ -1,14 +1,12 @@
-import { useState } from "react"
+import { useState } from "react";
 
-function useForm(initialValues){
-  const [formData,setFormData] = useState(initialValues)
-  function handleChange(e){
-    const {name,value} = e.target
-    setFormData(prevFormData => (
-      {...prevFormData,[name]:value}
-    ))
+function useForm(initialValues) {
+  const [formData, setFormData] = useState(initialValues);
+  function handleChange(e) {
+    const { name, value } = e.target;
+    setFormData((prevFormData) => ({ ...prevFormData, [name]: value }));
   }
-  return {formData,setFormData,handleChange}
+  return { formData, setFormData, handleChange };
 }
 
-export default useForm
+export default useForm;
